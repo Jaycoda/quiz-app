@@ -13,7 +13,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Quiz App</h1>
+      <h1>Quiz App test</h1>
       <QuizContext.Provider
         value={{ gameState, setGameState, score, setScore }}
       >
